@@ -59,6 +59,10 @@ The goal of the " Medical ChatBot Assistant " project is to create a simple chat
 
 The algorithm's combination of a bag-of-words representation and a simple neural network demonstrates the project's basic functionality. However, it's important to note that more advanced algorithms, such as transformer-based models like BERT or GPT, are often used in modern chatbot systems to capture complex language structures and semantics more effectively.
 
+# Project shots :
+![img1](https://github.com/11shiv/chatbot-mental-health-conversational/assets/103626079/38e6f60b-a0e7-4c7f-8770-9fc1a29e12d2)
+
+
 
 
 ### Limitations and Future Improvements
